@@ -14,7 +14,7 @@ The goal is to predict housing prices and evaluate performance using **Mean Squa
 
 | File Name                      | Description                                               |
 |-------------------------------|-----------------------------------------------------------|
-| `XG_Boost Algorithm Implementation.txt` | Main implementation script for loading data, training models, and evaluating results |
+| `XgBoost_Algorithm.ipynb` | Main implementation for loading data, training models, and evaluating results |
 | `README.md`                   | Project documentation                         |
 
 ---
